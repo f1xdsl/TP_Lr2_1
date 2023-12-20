@@ -12,6 +12,7 @@ Keeper::Keeper(const Keeper& other)
 }
 
 
+
 Keeper::~Keeper()
 {
 	delete[] array;
